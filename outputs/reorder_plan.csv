@@ -1,0 +1,25 @@
+sku,name,category,status,current_stock,days_of_cover,lead_time_days,safety_stock,reorder_point,eoq,recommended_qty,est_order_cost
+SKU-0013,Running Shoes,Apparel,CRITICAL,42,4.7,10,15.9,104.0,184.1,247,12765.84
+SKU-0012,Denim Jeans,Apparel,CRITICAL,94,4.8,5,18.8,120.3,236.8,264,15792.26
+SKU-0017,Cookware Set,Home,OK,104,5.2,3,15.2,75.9,269.2,0,0.0
+SKU-0024,Board Game,Toys,OK,90,6.9,5,12.4,76.5,231.7,0,0.0
+SKU-0011,Cotton T-Shirt,Apparel,OK,112,7.0,5,14.4,93.8,230.5,0,0.0
+SKU-0021,Building Blocks,Toys,OK,85,7.7,5,13.9,72.4,447.2,0,0.0
+SKU-0002,Olive Oil 1L,Grocery,OK,815,8.7,3,42.1,333.6,2176.2,0,0.0
+SKU-0009,Bluetooth Speaker,Electronics,OK,242,17.3,5,14.9,82.8,118.1,0,0.0
+SKU-0008,Power Bank 20k,Electronics,OK,116,17.7,14,17.9,108.2,132.7,0,0.0
+SKU-0023,Puzzle 1000pc,Toys,OK,216,18.0,14,21.8,185.6,342.2,0,0.0
+SKU-0014,Winter Jacket,Apparel,OK,344,18.6,14,25.7,286.7,584.1,0,0.0
+SKU-0005,Peanut Butter,Grocery,OK,1742,19.9,10,80.7,952.4,2515.8,0,0.0
+SKU-0010,USB-C Hub,Electronics,OK,408,20.7,10,23.7,225.3,255.4,0,0.0
+SKU-0006,Wireless Earbuds,Electronics,OK,232,20.8,7,15.6,93.9,129.6,0,0.0
+SKU-0019,Desk Lamp,Home,OK,280,34.2,5,12.8,54.9,166.1,0,0.0
+SKU-0022,RC Car,Toys,OK,823,36.7,10,28.4,255.6,375.0,0,0.0
+SKU-0018,Bed Sheet Set,Home,OK,852,38.2,5,21.3,139.0,591.9,0,0.0
+SKU-0003,Whole Wheat Flour,Grocery,OK,3518,39.4,7,70.0,688.6,2431.5,0,0.0
+SKU-0001,Basmati Rice 5kg,Grocery,OK,4153,41.4,10,103.9,1110.7,2406.5,0,0.0
+SKU-0004,Green Tea Box,Grocery,OK,4194,61.3,7,46.9,537.3,1887.0,0,0.0
+SKU-0020,Storage Bins,Home,OK,744,91.6,7,13.4,70.9,472.4,0,0.0
+SKU-0007,Smart Watch,Electronics,OVERSTOCK,764,37.0,5,18.7,126.0,153.7,0,0.0
+SKU-0016,LED Bulb Pack,Home,OVERSTOCK,1371,81.4,14,25.2,261.3,509.6,0,0.0
+SKU-0015,Sports Socks,Apparel,REORDER,110,7.3,7,18.5,120.6,230.8,242,13163.58
